@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-    s.name                       = 'Crypto-Swift'
+    s.name                       = 'Crypto.Swift'
     s.homepage                   = 'https://github.com/liujunliuhong/Crypto-Swift.git'
     s.summary                    = 'Cryptography in Swift.'
     s.description                = 'Cryptography functions and helpers for Swift implemented in Swift.'
