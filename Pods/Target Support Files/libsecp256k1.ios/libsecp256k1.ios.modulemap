@@ -1,6 +1,0 @@
-framework module libsecp256k1 {
-  umbrella header "libsecp256k1.ios-umbrella.h"
-
-  export *
-  module * { export * }
-}

@@ -1,6 +1,0 @@
-framework module libed25519 {
-  umbrella header "libed25519.ios-umbrella.h"
-
-  export *
-  module * { export * }
-}
